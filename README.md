@@ -1,1 +1,1 @@
-### Boilerplate of Choice
+### Single Page CV created with React
