@@ -1,10 +1,11 @@
+import "antd/dist/antd.css";
 import React from "react";
-import LoginPage from "components/templates/LoginPage";
+import HomePage from "components/templates/HomePage";
 
 function App() {
   return (
     <div style={{ padding: 20 }}>
-      <LoginPage />
+      <HomePage />
     </div>
   );
 }
